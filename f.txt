@@ -1,6 +1,11 @@
-tar -xzf speech_campplus_sv_zh-cn_16k-common.tar.gz \
-    -C ~/3D-Speaker/models/
+(3dspeaker39) gpu_mtk53732@colglx2002:~/3D-Speaker$ model_id=./models/speech_campplus_sv_zh-cn_16k-common
+(3dspeaker39) gpu_mtk53732@colglx2002:~/3D-Speaker$ python speakerlab/bin/infer_sv.py   --model_id $model_id   --wavs /proj/MR_dataset/mtk53732/speakerWav/common_voice_zh-TW_30445952.wav /proj/MR_dataset/mtk53732/speakerWav/common_voice_zh-TW_19227159.wav
+Traceback (most recent call last):
+  File "/proj/gpu_mtk53732/3D-Speaker/speakerlab/bin/infer_sv.py", line 340, in <module>
+    main()
+  File "/proj/gpu_mtk53732/3D-Speaker/speakerlab/bin/infer_sv.py", line 219, in main
+    assert args.model_id in supports, "Model id not currently supported."
+AssertionError: Model id not currently supported.
 
 
 
-model_id=./models/speech_campplus_sv_zh-cn_16k-common
