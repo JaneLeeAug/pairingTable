@@ -1,0 +1,4 @@
+(base) gpu_mtk53732@colglx2002:/proj/MR_dataset/mtk53732$ cp -r /proj/gpu_mtk53732/BreezyVoice .
+cp: cannot create regular file './BreezyVoice/.git/objects/pack/pack-638355b4c6c7f10b4b1ea119678f0a86dc33973f.pack': Permission denied
+cp: cannot create regular file './BreezyVoice/.git/objects/pack/pack-638355b4c6c7f10b4b1ea119678f0a86dc33973f.idx': Permission denied
+cp: cannot create regular file './BreezyVoice/.git/objects/pack/pack-638355b4c6c7f10b4b1ea119678f0a86dc33973f.rev': Permission denied
