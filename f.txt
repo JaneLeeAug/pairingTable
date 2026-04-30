@@ -1,5 +1,32 @@
-cache_dir = pathlib.Path(
-    os.path.expanduser(f'~/.cache/modelscope/hub/models/{args.model_id}')
-)
-
-assert cache_dir.exists(), f'Model cache not found: {cache_dir}'
+3dspeaker39) gpu_mtk53732@colglx2002:~/3D-Speaker$ python speakerlab/bin/infer_sv.py   --model_id $model_id   --wavs /proj/MR_dataset/mtk53732/speakerWav/common_voice_zh-TW_30445952.wav /proj/MR_dataset/mtk53732/speakerWav/common_voice_zh-TW_19227159.wav
+/proj/gpu_mtk53732/3D-Speaker/speakerlab/bin/infer_sv.py:247: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  pretrained_state = torch.load(pretrained_model, map_location='cpu')
+[INFO]: Using gpu for inference.
+[INFO]: Extracting embeddings...
+[WARNING]: The sample rate of /proj/MR_dataset/mtk53732/speakerWav/common_voice_zh-TW_30445952.wav is not 16000, resample it.
+Traceback (most recent call last):
+  File "/proj/gpu_mtk53732/3D-Speaker/speakerlab/bin/infer_sv.py", line 340, in <module>
+    main()
+  File "/proj/gpu_mtk53732/3D-Speaker/speakerlab/bin/infer_sv.py", line 310, in main
+    embedding1 = compute_embedding(wav_path1)
+  File "/proj/gpu_mtk53732/3D-Speaker/speakerlab/bin/infer_sv.py", line 279, in compute_embedding
+    wav = load_wav(wav_file)
+  File "/proj/gpu_mtk53732/3D-Speaker/speakerlab/bin/infer_sv.py", line 269, in load_wav
+    wav, fs = torchaudio.sox_effects.apply_effects_tensor(
+  File "/proj/MR_dataset/proj/MR_dataset/miniconda3/envs/3dspeaker39/lib/python3.9/site-packages/torchaudio/sox_effects/sox_effects.py", line 156, in apply_effects_tensor
+    return sox_ext.apply_effects_tensor(tensor, sample_rate, effects, channels_first)
+  File "/proj/MR_dataset/proj/MR_dataset/miniconda3/envs/3dspeaker39/lib/python3.9/site-packages/torchaudio/_extension/utils.py", line 121, in __getattr__
+    self._import_once()
+  File "/proj/MR_dataset/proj/MR_dataset/miniconda3/envs/3dspeaker39/lib/python3.9/site-packages/torchaudio/_extension/utils.py", line 135, in _import_once
+    self.module = self.import_func()
+  File "/proj/MR_dataset/proj/MR_dataset/miniconda3/envs/3dspeaker39/lib/python3.9/site-packages/torchaudio/_extension/utils.py", line 85, in _init_sox
+    ext = _import_sox_ext()
+  File "/proj/MR_dataset/proj/MR_dataset/miniconda3/envs/3dspeaker39/lib/python3.9/site-packages/torchaudio/_extension/utils.py", line 80, in _import_sox_ext
+    _load_lib("libtorchaudio_sox")
+  File "/proj/MR_dataset/proj/MR_dataset/miniconda3/envs/3dspeaker39/lib/python3.9/site-packages/torchaudio/_extension/utils.py", line 60, in _load_lib
+    torch.ops.load_library(path)
+  File "/proj/MR_dataset/proj/MR_dataset/miniconda3/envs/3dspeaker39/lib/python3.9/site-packages/torch/_ops.py", line 1295, in load_library
+    ctypes.CDLL(path)
+  File "/proj/MR_dataset/proj/MR_dataset/miniconda3/envs/3dspeaker39/lib/python3.9/ctypes/__init__.py", line 382, in __init__
+    self._handle = _dlopen(self._name, mode)
+OSError: libsox.so: cannot open shared object file: No such file or directory
