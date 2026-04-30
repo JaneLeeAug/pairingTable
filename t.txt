@@ -1,1 +1,375 @@
-rsync -avh --progress --exclude='.git' /proj/gpu_mtk53732/BreezyVoice/ .
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0003238649.wav
+Map:   0%|                                                                                 | 470/9303000 [1:18:34<23733:13:31,  9.18s/ examples]Speaker prompt audio transcription: 這也是我們臺灣人的真情。
+Content to be synthesized: 你沒有交往過雙魚。
+Synthesizing: 你沒有交往過雙魚。
+Elapsed time: 4.9790284633636475
+Generated audio length: 1.822766439909297 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0000640872.wav
+Map:   0%|                                                                                 | 471/9303000 [1:18:41<22040:48:18,  8.53s/ examples]Speaker prompt audio transcription: 近一七年前，美國知名動畫「辛普森家庭」(The Simpsons)某一集曾預言，川普有一天會成為美國總統，沒想到事隔多年竟成神預言，但這不是唯一一次作者成功預言未來。
+Content to be synthesized: 我就會這一個禮拜都哭。
+Synthesizing: 我就會這一個禮拜都哭。
+min value is  tensor(-1.0113)
+max value is  tensor(1.0094)
+Elapsed time: 16.933263063430786
+Generated audio length: 4.899410430839002 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0009291438.wav
+Map:   0%|                                                                                 | 472/9303000 [1:19:01<31016:12:40, 12.00s/ examples]Speaker prompt audio transcription: 時序進入二十四節氣中的「小滿」，代表炎炎夏日即將到來，台北市客家主題公園特別邀請民眾，在園區學做韭菜盒子和下田除草，體驗傳統農庄[:ㄓㄨㄤ1]的生活。
+Content to be synthesized: 哦好啊。
+Synthesizing: 哦好啊。
+Elapsed time: 14.996771574020386
+Generated audio length: 2.403265306122449 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0008113010.wav
+Map:   0%|                                                                                 | 473/9303000 [1:19:19<35545:38:43, 13.76s/ examples]Speaker prompt audio transcription: 主動減輕店員負擔。
+Content to be synthesized: 銀行就不需要去做信用分配。
+Synthesizing: 銀行就不需要去做信用分配。
+Elapsed time: 7.097187519073486
+Generated audio length: 4.504671201814059 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0000477542.wav
+Map:   0%|                                                                                 | 474/9303000 [1:19:29<32105:50:33, 12.42s/ examples]Speaker prompt audio transcription: 一個正面迎向一切挑戰的新政府。
+Content to be synthesized: 然後那個印刷廠跟餐廳是同一個企業。
+Synthesizing: 然後那個印刷廠跟餐廳是同一個企業。
+Elapsed time: 10.670455932617188
+Generated audio length: 7.523265306122449 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0002876544.wav
+Map:   0%|                                                                                 | 475/9303000 [1:19:42<32710:32:32, 12.66s/ examples]Speaker prompt audio transcription: 我信神，全能的父，創造天地的主。
+Content to be synthesized: 或者你太多看到。
+Synthesizing: 或者你太多看到。
+Elapsed time: 8.667848110198975
+Generated audio length: 3.599092970521542 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0005932889.wav
+Map:   0%|                                                                                 | 476/9303000 [1:19:53<31467:35:56, 12.18s/ examples]Speaker prompt audio transcription: 綠水青山就是金山銀山。
+Content to be synthesized: 相對是比較低的。
+Synthesizing: 相對是比較低的。
+Elapsed time: 4.9443724155426025
+Generated audio length: 1.9736961451247166 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0007511903.wav
+Map:   0%|                                                                                 | 477/9303000 [1:20:00<27436:51:26, 10.62s/ examples]Speaker prompt audio transcription: 平時會僱用工人照顧田地。
+Content to be synthesized: 我覺得真的太棒了。
+Synthesizing: 我覺得真的太棒了。
+Elapsed time: 6.737565279006958
+Generated audio length: 3.599092970521542 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0007305292.wav
+Map:   0%|                                                                                 | 478/9303000 [1:20:08<25910:06:51, 10.03s/ examples]Speaker prompt audio transcription: 給我們都戴上報紙做成的尖頂高帽。
+Content to be synthesized: 在這麼痛苦的過程中你還享受你自己。
+Synthesizing: 在這麼痛苦的過程中你還享受你自己。
+Elapsed time: 10.849627256393433
+Generated audio length: 7.836734693877551 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0000265627.wav
+Map:   0%|                                                                                 | 479/9303000 [1:20:22<28345:29:07, 10.97s/ examples]Speaker prompt audio transcription: 知府尋思，魯達是老種經略相公的愛將，不能隨便逮捕他。
+Content to be synthesized: 我們沒有辦法把事實跟感受分開來。
+Synthesizing: 我們沒有辦法把事實跟感受分開來。
+Elapsed time: 11.280824661254883
+Generated audio length: 5.038730158730159 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0008042898.wav
+Map:   0%|                                                                                 | 480/9303000 [1:20:36<30698:04:50, 11.88s/ examples]Speaker prompt audio transcription: 是最重要的評價因素。
+Content to be synthesized: 所以剛剛林醫師講的這些場景。
+Synthesizing: 所以剛剛林醫師講的這些場景。
+Elapsed time: 7.136940240859985
+Generated audio length: 4.725260770975057 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0003190983.wav
+Map:   0%|                                                                                 | 481/9303000 [1:20:45<28814:20:16, 11.15s/ examples]Speaker prompt audio transcription: 智深連走幾家酒館，店家一看是五台山的和尚，都不賣與他酒吃。
+Content to be synthesized: 我這個推到斜坡。
+Synthesizing: 我這個推到斜坡。
+Elapsed time: 8.658770561218262
+Generated audio length: 2.0085260770975055 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0008607482.wav
+Map:   0%|                                                                                 | 482/9303000 [1:20:56<28742:20:03, 11.12s/ examples]Speaker prompt audio transcription: 我也有卡帶的錄音帶。
+Content to be synthesized: 一天講十二個鐘頭。
+Synthesizing: 一天講十二個鐘頭。
+Elapsed time: 7.504558563232422
+Generated audio length: 5.3986394557823125 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0007295951.wav
+Map:   0%|                                                                                 | 483/9303000 [1:21:06<27662:27:57, 10.71s/ examples]Speaker prompt audio transcription: 如果不小心打破了。
+Content to be synthesized: 被罵真的很累很痛苦。
+Synthesizing: 被罵真的很累很痛苦。
+Elapsed time: 5.019800424575806
+Generated audio length: 3.053424036281179 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0005570089.wav
+Map:   0%|                                                                                 | 484/9303000 [1:21:13<24920:42:53,  9.64s/ examples]Speaker prompt audio transcription: 臺灣省道快速公路。
+Content to be synthesized: 一直看他要幹嘛。
+Synthesizing: 一直看他要幹嘛。
+Elapsed time: 5.932720422744751
+Generated audio length: 2.6354648526077096 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0000368718.wav
+Map:   0%|                                                                                 | 485/9303000 [1:21:21<23780:18:59,  9.20s/ examples]Speaker prompt audio transcription: 利害關係人一起討論出政策方向。
+Content to be synthesized: 誰跟你講週期結束一定是世界毀滅。
+Synthesizing: 誰跟你講週期結束一定是世界毀滅。
+Elapsed time: 7.57851767539978
+Generated audio length: 4.783310657596372 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0005729233.wav
+Map:   0%|                                                                                 | 486/9303000 [1:21:31<24263:11:04,  9.39s/ examples]Speaker prompt audio transcription: 思索今天是否比昨天更進步。
+Content to be synthesized: 我小的時候我看到。
+Synthesizing: 我小的時候我看                            Elapsed time: 7.203430891036987
+Generated audio length: 3.599092970521542 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0000844175.wav
+Map:   0%|                                                                                 | 487/9303000 [1:21:40<24286:25:46,  9.40s/ examples]Speaker prompt audio transcription: 更晚可能會有更大的雨勢。
+Content to be synthesized: 瞭解什麼真的纔[:ㄘㄞ2]是愛自己這件事情。
+Synthesizing: 瞭解什麼真的纔[:ㄘㄞ2]是愛自己這件事情。
+Elapsed time: 6.659645318984985
+Generated audio length: 3.517823129251701 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0005770809.wav
+Map:   0%|                                                                                 | 488/9303000 [1:21:50<24065:10:32,  9.31s/ examples]Speaker prompt audio transcription: 部分弱勢家庭仍然無法負擔租金。
+Content to be synthesized: 什麼樣的教養方式纔[:ㄘㄞ2]是好的。
+Synthesizing: 什麼樣的教養方式纔[:ㄘㄞ2]是好的。
+Elapsed time: 6.49790358543396
+Generated audio length: 3.4481632653061225 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0006820689.wav
+Map:   0%|                                                                                 | 489/9303000 [1:21:58<23548:53:40,  9.11s/ examples]Speaker prompt audio transcription: 智深記下了，拜辭了恩師，離了五台山，到鎮上鐵匠鋪隔壁客店歇了。
+Content to be synthesized: 沒有我是說妳[:ㄋㄧ3]可以接受一個。
+Synthesizing: 沒有我是說妳[:ㄋㄧ3]可以接受一個。
+Elapsed time: 9.800357580184937
+Generated audio length: 3.2275736961451247 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0008136247.wav
+Map:   0%|                                                                                 | 490/9303000 [1:22:10<26013:11:01, 10.07s/ examples]Speaker prompt audio transcription: 坊間真的有很多不錯的書可以讀。
+Content to be synthesized: 隨著版本流傳，文本會有增刪。
+Synthesizing: 隨著版本流傳，文本會有增刪。
+Elapsed time: 4.743390798568726
+Generated audio length: 3.030204081632653 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0006638388.wav
+Map:   0%|                                                                                 | 491/9303000 [1:22:18<23795:53:34,  9.21s/ examples]Speaker prompt audio transcription: 串聯東部與西部的公路系統。
+Content to be synthesized: 或者是rap再怎麼流行。
+Synthesizing: 或者是rap再怎麼流行。
+Elapsed time: 7.1299147605896
+Generated audio length: 3.1579138321995464 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0001685556.wav
+Map:   0%|                                                                                 | 492/9303000 [1:22:27<23934:07:54,  9.26s/ examples]Speaker prompt audio transcription: 叫我抽血檢查看看。
+Content to be synthesized: 藥本身很有效。
+Synthesizing: 藥本身很有效。
+Elapsed time: 5.645661354064941
+Generated audio length: 2.716734693877551 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0000577859.wav
+Map:   0%|                                                                                 | 493/9303000 [1:22:35<22807:47:51,  8.83s/ examples]Speaker prompt audio transcription: 桃園市政府警察局桃園分局。
+Content to be synthesized: 對對對他們也還是可能會存在關係的階級。
+Synthesizing: 對對對他們也還是可能會存在關係的階級。
+Elapsed time: 9.575000524520874
+Generated audio length: 7.395555555555555 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0000531967.wav
+Map:   0%|                                                                                 | 494/9303000 [1:22:47<25098:34:55,  9.71s/ examples]Speaker prompt audio transcription: 高雄市路竹區與阿蓮區交界。
+Content to be synthesized: 你你看你看到最離譜的事情是什麼。
+Synthesizing: 你你看你看到最離譜的事情是什麼。
+max value is  tensor(1.0176)
+Elapsed time: 8.57047414779663
+Generated audio length: 5.0967800453514736 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0003541404.wav
+Map:   0%|                                                                                 | 495/9303000 [1:22:58<26052:05:09, 10.08s/ examples]Speaker prompt audio transcription: 這邊的房子不用再繳租金了。
+Content to be synthesized: 當時的一個生活。
+Synthesizing: 當時的一個生活。
+Elapsed time: 6.310264825820923
+Generated audio length: 3.610702947845805 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0000423960.wav
+Map:   0%|                                                                                 | 496/9303000 [1:23:06<24986:45:41,  9.67s/ examples]Speaker prompt audio transcription: 在第二次世界大戰後，國際間最主要的衝突在於兩大強國致力「軍備競賽」，因各自擁有大量核子毀滅性武器，所以雙方都儘量避免正面的軍事衝突。
+Content to be synthesized: 大的動物活得比較久。
+Synthesizing: 大的動物活得比較久。
+Elapsed time: 13.394515991210938
+Generated audio length: 1.555736961451247 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0008338456.wav
+Map:   0%|                                                                                 | 497/9303000 [1:23:23<30308:01:34, 11.73s/ examples]Speaker prompt audio transcription: 透過網站公布優良廠商名單。
+Content to be synthesized: 大家最大的痛是來自於。
+Synthesizing: 大家最大的痛是來自於。
+Elapsed time: 7.428560256958008
+Generated audio length: 4.597551020408163 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0002385885.wav
+Map:   0%|                                                                                 | 498/9303000 [1:23:33<28709:43:07, 11.11s/ examples]Speaker prompt audio transcription: 次日早上，太陽老高了，太公不見二人起身，來到客房，說：“客官，天色不早，好去趕路了。”王進出來，說：“太公，我母親於路上鞍[:ㄢ1]馬勞累，犯了心疼病。”
+Content to be synthesized: 你只要一靜下來。
+Synthesizing: 你只要一靜下來。
+Elapsed time: 16.38697910308838
+Generated audio length: 2.020136054421769 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0008509018.wav
+Map:   0%|                                                                                 | 499/9303000 [1:23:52<35273:16:31, 13.65s/ examples]Speaker prompt audio transcription: 沒有你們的奔走，就沒有這一次的特展。
+Content to be synthesized: 英雄主義的那一種工作。
+Synthesizing: 英雄主義的那一種工作。
+Elapsed time: 6.200387954711914
+Generated audio length: 2.8908843537414968 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0004349165.wav
+Map:   0%|                                                                                 | 500/9303000 [1:24:01<31246:31:51, 12.09s/ examples]Speaker prompt audio transcription: 學會了，就能突破內在盲點。
+Content to be synthesized: 我現在眼睛不好。
+Synthesizing: 我現在眼睛不好。
+Elapsed time: 5.81796407699585
+Generated audio length: 2.426485260770975 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0000042203.wav
+Map:   0%|                                                                                 | 501/9303000 [1:24:09<28037:57:34, 10.85s/ examples]Speaker prompt audio transcription: 所以形狀才能做成一樣。
+Content to be synthesized: 嗯嗯嗯那有些人追求是比較spiritual。
+Synthesizing: 嗯嗯嗯那有些人追求是比較spiritual。
+Elapsed time: 11.039774417877197
+Generated audio length: 8.40562358276644 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0000598456.wav
+Map:   0%|                                                                                 | 502/9303000 [1:24:22<29926:17:12, 11.58s/ examples]Speaker prompt audio transcription: 真的滿有運動效果的。
+Content to be synthesized: 其實更發燒的事情就是要離開老師了。
+Synthesizing: 其實更發燒的事情就是要離開老師了。
+Elapsed time: 6.663370847702026
+Generated audio length: 5.328979591836735 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0005876356.wav
+Map:   0%|                                                                                 | 503/9303000 [1:24:31<27866:50:50, 10.78s/ examples]Speaker prompt audio transcription: 到底為什麼會這樣想呢？
+Content to be synthesized: 臺北年貨大街最知名的就是集結南北貨與中藥材的迪化商圈，從十三號到二十六號規劃一系列精彩活動，其中也特別舉辦英、日、韓三場大稻埕[:ㄔㄥ2]年味小旅行，邀請外籍朋友參加。
+Synthesizing: 臺北年貨大街最知名的就是集結南北貨與中藥材的迪化商圈，從十三號到二十六號規劃一系列精彩活動，其中也特別舉辦英、日、韓三場大稻埕[:ㄔㄥ2]年味小旅行，邀請外籍朋友參加。
+Elapsed time: 20.702180862426758
+Generated audio length: 24.624761904761904 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0002211998.wav
+Map:   0%|                                                                                 | 504/9303000 [1:24:55<38022:40:09, 14.71s/ examples]Speaker prompt audio transcription: 就可學會一生受用的邏輯思考法則。
+Content to be synthesized: 然後你會發現更多事情。
+Synthesizing: 然後你會發現更多事情。
+min value is  tensor(-1.0265)
+max value is  tensor(1.0085)
+Elapsed time: 6.207022190093994
+Generated audio length: 3.111473922902494 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0000383111.wav
+Map:   0%|                                                                                 | 505/9303000 [1:25:03<33121:40:32, 12.82s/ examples]Speaker prompt audio transcription: 所以去墾丁都去別的地方了。
+Content to be synthesized: 這件事情不適合人。
+Synthesizing: 這件事情不適合人。
+Elapsed time: 6.651501655578613
+Generated audio length: 3.076643990929705 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0005957258.wav
+Map:   0%|                                                                                 | 506/9303000 [1:25:12<30122:01:39, 11.66s/ examples]Speaker prompt audio transcription: 台北捷運營運路線。
+Content to be synthesized: 我已經很久沒有討論MBTI這個議題了。
+Synthesizing: 我已經很久沒有討論MBTI這個議題了。
+Elapsed time: 7.2497594356536865
+Generated audio length: 5.7004988662131515 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0002810420.wav
+Map:   0%|                                                                                 | 507/9303000 [1:25:21<28399:54:34, 10.99s/ examples]Speaker prompt audio transcription: 在友誼的基礎之上也要有紀律。
+Content to be synthesized: 或是所謂的意義這件事情。
+Synthesizing: 或是所謂的意義這件事情。
+Elapsed time: 5.926285028457642
+Generated audio length: 2.2639455782312927 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0001055562.wav
+Map:   0%|                                                                                 | 508/9303000 [1:25:29<26142:54:51, 10.12s/ examples]Speaker prompt audio transcription: 《你的名字》是日本動畫家新海誠編輯與執導、於二零一六年八月二十六日在日本首映的動畫電影。
+Content to be synthesized: 哇就是真的很傳統。
+Synthesizing: 哇就是真的很傳統。
+Elapsed time: 10.33970594406128
+Generated audio length: 2.020136054421769 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0008059218.wav
+Map:   0%|                                                                                 | 509/9303000 [1:25:42<28230:14:39, 10.92s/ examples]Speaker prompt audio transcription: 失業率降到十七年來的新低點。
+Content to be synthesized: 我怕你怕你跑走。
+Synthesizing: 我怕你怕你跑走。
+Elapsed time: 5.9229302406311035
+Generated audio length: 1.9388662131519274 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0006731377.wav
+Map:   0%|                                                                                 | 510/9303000 [1:25:50<25975:39:35, 10.05s/ examples]Speaker prompt audio transcription: 使用者對於稅法可能不瞭解。
+Content to be synthesized: 他的教法就很妙。
+Synthesizing: 他的教法就很妙。
+Elapsed time: 6.944332838058472
+Generated audio length: 3.076643990929705 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0001130722.wav
+Map:   0%|                                                                                 | 511/9303000 [1:25:59<25287:57:28,  9.79s/ examples]Speaker prompt audio transcription: 根據通鑑紀事本末中的史料編輯而成。
+Content to be synthesized: 真的跟木柵[:ㄓㄚ4]線很像。
+Synthesizing: 真的跟木柵[:ㄓㄚ4]線很像。
+Elapsed time: 5.764628648757935
+Generated audio length: 1.8692063492063493 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0002327953.wav
+Map:   0%|                                                                                 | 512/9303000 [1:26:07<23906:20:03,  9.25s/ examples]Speaker prompt audio transcription: 過了一會，開上飯來，我兩人對坐吃過了，繼之方才洗了臉，換上衣服，出去會那鍾雷溪。我便跟了出去，閃在屏風後面去看他。
+Content to be synthesized: 過爽爽的日子的話。
+Synthesizing: 過爽爽的日子的話。
+Elapsed time: 17.41056799888611
+Generated audio length: 2.403265306122449 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0009191223.wav
+Map:   0%|                                                                                 | 513/9303000 [1:26:28<32527:05:11, 12.59s/ examples]Speaker prompt audio transcription: 我已經陷入悲哀的輪迴。
+Content to be synthesized: 他就說什麼禮教吃人嘛。
+Synthesizing: 他就說什麼禮教吃人嘛。
+Elapsed time: 5.249470233917236
+Generated audio length: 3.308843537414966 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0000825034.wav
+Map:   0%|                                                                                 | 514/9303000 [1:26:35<28453:52:51, 11.01s/ examples]Speaker prompt audio transcription: 端王是神宗天子的第十一子，哲宗天子的弟弟，執掌東宮，排號九大王，琴棋書畫、吹彈歌舞、踢球打彈，無所不精。
+Content to be synthesized: 這些東西就變成那一個時代我們的特色。
+Synthesizing: 這些東西就變成那一個時代我們的特色。
+Elapsed time: 15.495771169662476
+Generated audio length: 4.806530612244898 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0008147895.wav
+Map:   0%|                                                                                 | 515/9303000 [1:26:54<34156:47:39, 13.22s/ examples]Speaker prompt audio transcription: 小魯一想到可以被噓[:ㄒㄩ1]就好興奮歐。
+Content to be synthesized: 之前有學過唱歌。
+Synthesizing: 之前有學過唱歌。
+Elapsed time: 5.75330924987793
+Generated audio length: 2.391655328798186 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0006105356.wav
+Map:   0%|                                                                                 | 516/9303000 [1:27:01<30082:44:55, 11.64s/ examples]Speaker prompt audio transcription: 試著在負能量中尋求轉化成正能量的契機。
+Content to be synthesized: 它應該有不同的效應。
+Synthesizing: 它應該有不同的效應。
+Elapsed time: 6.628780364990234
+Generated audio length: 2.914104308390023 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0003197413.wav
+Map:   0%|                                                                                 | 517/9303000 [1:27:10<27982:52:51, 10.83s/ examples]Speaker prompt audio transcription: 創黨大會將於八月六日舉行。
+Content to be synthesized: 你都還是會想辦法。
+Synthesizing: 你都還是會想辦法。
+Elapsed time: 6.2534966468811035
+Generated audio length: 2.403265306122449 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0001415133.wav
+Map:   0%|                                                                                 | 518/9303000 [1:27:19<26117:16:16, 10.11s/ examples]Speaker prompt audio transcription: 空氣像凍結一樣。
+Content to be synthesized: 雖然太陽很大。
+Synthesizing: 雖然太陽很大。
+Elapsed time: 3.492622137069702
+Generated audio length: 1.4512471655328798 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0004687424.wav
+Map:   0%|                                                                                 | 519/9303000 [1:27:24<22477:22:34,  8.70s/ examples]Speaker prompt audio transcription: 有些同仁的頭髮已經開始有銀光出現了。
+Content to be synthesized: 離婚之後。
+Synthesizing: 離婚之後。
+Elapsed time: 5.939974784851074
+Generated audio length: 2.2058956916099772 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0003650554.wav
+Map:   0%|                                                                                 | 520/9303000 [1:27:32<22021:22:52,  8.52s/ examples]Speaker prompt audio transcription: 簡直就是我這種廢物的真實寫照。
+Content to be synthesized: 也是希望大家。
+Synthesizing: 也是希望大家。
+Elapsed time: 6.736610412597656
+Generated audio length: 1.822766439909297 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0004424912.wav
+Map:   0%|                                                                                 | 521/9303000 [1:27:41<22240:50:38,  8.61s/ examples]Speaker prompt audio transcription: 我在台北一零一買了紀念品。
+Content to be synthesized: 我以前從來沒有這個狀態過。
+Synthesizing: 我以前從來沒有這個狀態過。
+Elapsed time: 6.713957786560059
+Generated audio length: 6.606077097505669 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0005156921.wav
+Map:   0%|                                                                                 | 522/9303000 [1:27:50<22402:57:11,  8.67s/ examples]Speaker prompt audio transcription: 有多元豐富之相關資訊可供參考。
+Content to be synthesized: 我第一個我第一個主持的節目我就在螢幕前抽菸。
+Synthesizing: 我第一個我第一個主持的節目我就在螢幕前抽菸。
+Elapsed time: 10.220656633377075
+Generated audio length: 6.408707482993197 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0003023972.wav
+Map:   0%|                                                                                 | 523/9303000 [1:28:03<25398:22:33,  9.83s/ examples]Speaker prompt audio transcription: 其實不管甲案乙案結果都是相同。
+Content to be synthesized: 以前是你先生比較高。
+Synthesizing: 以前是你先生比較高。
+Elapsed time: 5.3956382274627686
+Generated audio length: 2.159455782312925 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0007002048.wav
+Map:   0%|                                                                                 | 524/9303000 [1:28:10<23706:47:58,  9.17s/ examples]Speaker prompt audio transcription: 她直覺認為別再待下去比較好。
+Content to be synthesized: 其實更多是我們社會上面。
+Synthesizing: 其實更多是我們社會上面。
+Elapsed time: 5.519102334976196
+Generated audio length: 2.9373242630385485 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0003575853.wav
+Map:   0%|                                                                                 | 525/9303000 [1:28:18<22608:20:48,  8.75s/ examples]Speaker prompt audio transcription: 太公說，他有三個女兒，大的叫香蘭，二的叫玉蘭，三的叫翠蘭。兩個女兒出了嫁，只留著老女兒，想招個上門女婿[:ㄒㄩ4]養老。
+Content to be synthesized: 承受不了這麼多的下下籤。
+Synthesizing: 承受不了這麼多的下下籤。
+Elapsed time: 13.026676177978516
+Generated audio length: 3.1579138321995464 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0008244246.wav
+Map:   0%|                                                                                 | 526/9303000 [1:28:34<28174:21:01, 10.90s/ examples]Speaker prompt audio transcription: 昨天與臺大校長及中研院長討論。
+Content to be synthesized: 你不知道拿到這個資訊的人。
+Synthesizing: 你不知道拿到這個資訊的人。
+Elapsed time: 6.346546649932861
+Generated audio length: 2.8560544217687074 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0002287563.wav
+Map:   0%|                                                                                 | 527/9303000 [1:28:42<26359:49:03, 10.20s/ examples]Speaker prompt audio transcription: 賦與他們自由發言的權利。
+Content to be synthesized: 大量生成短鏈脂肪酸的。
+Synthesizing: 大量生成短鏈脂肪酸的。
+Elapsed time: 9.600696802139282
+Generated audio length: 5.421859410430839 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0007747091.wav
+Map:   0%|                                                                                 | 528/9303000 [1:28:54<27551:24:16, 10.66s/ examples]Speaker prompt audio transcription: 現代文官體系包含「政務官」及「事務官」，兩者扮演的角色、任用資格和職掌有所不同，例如：政務官多隨政黨進退、任期不一定。
+Content to be synthesized: 我就覺得林萱[:ㄒㄩㄢ1]就是她的內心應該硬硬的。
+Synthesizing: 我就覺得林萱[:ㄒㄩㄢ1]就是她的內心應該硬硬的。
+Elapsed time: 13.201354265213013
+Generated audio length: 4.20281179138322 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0009060918.wav
+Map:   0%|                                                                                 | 529/9303000 [1:29:10<31643:43:32, 12.25s/ examples]Speaker prompt audio transcription: 智深見了長老，扔[:ㄖㄥ1]了棒，施個禮，說：“洒[:ㄒㄧ3]家吃酒，沒惹他們，他們來打洒[:ㄒㄧ3]家。”長老說：“你醉了，睡覺去。”
+Content to be synthesized: 對海廷來講你現在。
+Synthesizing: 對海廷來講你現在。
+Elapsed time: 13.058910131454468
+Generated audio length: 2.6354648526077096 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0008645571.wav
+Map:   0%|                                                                                 | 530/9303000 [1:29:26<34484:54:20, 13.35s/ examples]Speaker prompt audio transcription: 本案會議紀錄將於會後上網公告。
+Content to be synthesized: 我可以問一百個。
+Synthesizing: 我可以問一百個。
+Elapsed time: 6.456168174743652
+Generated audio length: 1.811156462585034 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0003378399.wav
+Map:   0%|                                                                                 | 531/9303000 [1:29:35<30886:29:26, 11.95s/ examples]Speaker prompt audio transcription: 選擇通過安心賣家認證的店家。
+Content to be synthesized: 我們講說炎上它本質就是認知失調。
+Synthesizing: 我們講說炎上它本質就是認知失調。
+Map:   0%|                                                                                 | 531/
