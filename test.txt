@@ -1,0 +1,19 @@
+| 225/9303000 [34:47<21588:46:05,  8.35s/ examples]Speaker prompt audio transcription: 新政府要承擔的第四件事情。
+Content to be synthesized: 當你要說什麼。
+Synthesizing: 當你要說什麼。
+Elapsed time: 6.359856128692627
+Generated audio length: 2.461315192743764 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0006528721.wav
+Map:   0%|                                                                                       | 226/9303000 [34:55<21356:06:52,  8.26s/ examples]Speaker prompt audio transcription: 但是那邊賣的蘋果真的好吃。
+Content to be synthesized: 用所謂你的Empathy Engine。
+Synthesizing: 用所謂你的Empathy Engine。
+Elapsed time: 5.826563835144043
+Generated audio length: 2.716734693877551 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0002817391.wav
+Map:   0%|                                                                                       | 227/9303000 [35:03<20770:20:11,  8.04s/ examples]Speaker prompt audio transcription: 用一種很怪的方式，封住了自己的能力。
+Content to be synthesized: 是要跟他這個滷這個雞肉的雞湯一起去煮的。
+Synthesizing: 是要跟他這個滷這個雞肉的雞湯一起去煮的。
+Elapsed time: 7.742720127105713
+Generated audio length: 5.421859410430839 seconds
+Generated voice saved to /proj/gpu_mtk53732/temp_results/SD0004735074.wav
+Map:   0%|                                                                                       | 228/9303000 [35:12<21946:09:42,  8.49
